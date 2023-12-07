@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I am Fullstack developer in Mern stack. I am a tech enthusiast who is eager to learn new technologies .
+
+Apart from tech side I like to read philosophy and psychology books.
+
 <!--
 **Neerajrawat123/Neerajrawat123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
